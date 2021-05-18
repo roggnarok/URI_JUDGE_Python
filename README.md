@@ -1,4 +1,4 @@
 # URI_JUDGE_Python
  Minhas Resoluções dos Desafios do URI JUDGE ONLINE!
 
- Repositório criado após da aulas de Git e GitHub do Prof. Guanabara! 
+ Repositório criado durante as aulas de Git e GitHub do Prof. Guanabara! 
