@@ -14,4 +14,4 @@ def soma(a, b):          # Define uma função chamada soma, que recebe dois val
 #Programa principal.
 a = int(input())          # Lê do usuário um valor, converte p/ inteiro e atribui a variável a.
 b = int(input())          # Lê do usuário um valor, converte p/ inteiro e atribui a variável b.
-print(f'SOMA = {soma(a,b)}')    #Imprime na tela o resultado. 
+print(f'SOMA = {soma(a,b)}')    # Imprime na tela o resultado. 
