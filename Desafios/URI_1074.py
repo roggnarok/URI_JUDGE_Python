@@ -1,3 +1,4 @@
+# 1074
 n1 = int(input())
 while n1 > 10000:
     n1 = int(input())
