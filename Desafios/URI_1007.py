@@ -5,4 +5,3 @@ C=int(input())
 D=int(input())
 diferenca=((A*B)-(C*D))
 print("DIFERENCA = %i"%diferenca)
-#teste da chave ssh
